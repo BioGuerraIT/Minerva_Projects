@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T04:26:57.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aQfssNZhcRRMo5s8HDV0" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T04:39:49.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="t_x9rQI7iZ1C-C6uS_Xy" version="20.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4520" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -223,6 +223,12 @@
         </mxCell>
         <mxCell id="SS6zmwQ81CMFTvqJXIf2-37" value="Recursive" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="654" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SS6zmwQ81CMFTvqJXIf2-38" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-500" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SS6zmwQ81CMFTvqJXIf2-39" value="General Observation: I did these algorithms by receiving an array of numbers, &lt;br&gt;however, I just realized that the problem is simpler than that.&lt;br&gt;So I will take one line of code to show how it would be if my algorithm&lt;br&gt;was receiving a number&lt;br&gt;.&amp;nbsp;&lt;br&gt;Current Line:&lt;br&gt;if (!Array[j].givenString[right] in dict) or&lt;br&gt;(Array[j].givenString[left] != Array[j].givenString[right])&amp;nbsp;&lt;br&gt;&lt;br&gt;With a number (n):&lt;br&gt;if (!n.givenString[right] in dict) or&lt;br&gt;(n.givenString[left] != n.givenString[right])" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-810" y="160" width="570" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
